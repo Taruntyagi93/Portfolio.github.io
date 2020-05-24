@@ -138,7 +138,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "SOME BIG COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
       image: "http://drive.google.com/uc?export=view&id=1GhyXwQEZwJz9n9BIO8yZBOlM7K2hgW4a",
