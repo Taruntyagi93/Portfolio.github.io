@@ -174,7 +174,7 @@ const achievementSection = {
     {
       title: "Google Code-In Finalist",
       subtitle:
-        "First Indian from Delhi to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
       image:
         "https://1.bp.blogspot.com/-Ig-v1tDXZt4/XDODmZvWp1I/AAAAAAAAB0A/KtbFdBPFVQw2O15FekkIR0Yg8MUp--rngCLcBGAs/s1600/GCI%2B-%2BVertical%2B-%2BGray%2BText%2B-%2BWhite%2BBG.png",
       footerLink: [
@@ -205,21 +205,21 @@ const achievementSection = {
         {
           name: "View Google Assistant Action",
           url:
-            "https://assistant.google.com/services/a/uid/000000100ee6e?hl=en",
+            "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en",
         },
       ],
     },
 
     {
       title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for Web App Development",
+      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu93Bd6LDbxPEOXr-hfLqLYzmHny8c0MJoI3exQP-lwpFLRT7g&s",
       footerLink: [
         { name: "Certification", url: "" },
         {
           name: "Final Project",
-          url: "https://India-olx-1.firebaseapp.com/",
+          url: "https://pakistan-olx-1.firebaseapp.com/",
         },
       ],
     },
@@ -236,13 +236,13 @@ const blogSection = {
   blogs: [
     {
       url:
-        "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8dd76eae",
+        "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
       title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
       description:
         "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?",
     },
     {
-      url: "https://medium.com/why-react-is-the-best-5a97563f423e",
+      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
       title: "Why REACT is The Best?",
       description:
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies.",
@@ -261,9 +261,9 @@ const talkSection = {
   talks: [
     {
       title: "Build Actions For Google Assistant",
-      subtitle: "Codelab at GDG DevFest 2019",
-      slides_url: "https://bit.ly/slides",
-      event_url: "https://www.facebook.com/events/23399066275053/",
+      subtitle: "Codelab at GDG DevFest Karachi 2019",
+      slides_url: "https://bit.ly/saadpasta-slides",
+      event_url: "https://www.facebook.com/events/2339906106275053/",
       image:
         "https://scontent.fkhi6-1.fna.fbcdn.net/v/t1.0-9/76714032_1730516240415559_1293494289556307968_o.jpg?_nc_cat=103&_nc_ohc=s5f81rdZd6wAQmqUa52YQBA21MjVOy7e-HN9jI7MspRDC-v5ahEouyInQ&_nc_ht=scontent.fkhi6-1.fna&oh=c29141a9a0de7ff2011a8191f5475a78&oe=5E83127C",
     },
@@ -278,7 +278,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://anchor.fm/codevcast/embed/episodes/DevStory-e9givv/a-a15itvo",
+    "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo",
   ],
 };
 
@@ -286,8 +286,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+1-(812)391-6150",
-  email_address: "taruntyagi0193@gmail.com",
+  number: "+92-3243454077",
+  email_address: "saadpasta70@gmail.com",
 };
 
 //Twitter Section
