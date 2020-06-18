@@ -22,7 +22,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/tarun-tyagi-018a4549/",
   gmail: "taruntyagi0193@gmail.com",
   facebook: "https://www.facebook.com/tarun.tyagi.58118",
-  twitter: "https://twitter.com/tyagi_tara",
+  twitter: "https://twitter.com/taruntyagi93",
   instagram: "https://www.instagram.com/taruntyagii/",
   // Instagram and Twitter are also supported in the links!
 };
